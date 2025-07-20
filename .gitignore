@@ -1,0 +1,8 @@
+.env
+kb/*
+vdb/*
+.DS_Store
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+*.vscode
